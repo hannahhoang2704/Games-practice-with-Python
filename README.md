@@ -1,2 +1,3 @@
-# snake-game
-Snake game in Python
+# Small games in Python
+
+Small project to practise Python
